@@ -1,5 +1,5 @@
 # PhotoGallery
-Photo Gallery Web Application Using React and Firebase
+Photo Gallery is a Web Application made using React and Firebase. It also includes amazing animations using FramerMotion Library. The UI is designed with the help of Material UI and Bootstrap.
 
 
 
